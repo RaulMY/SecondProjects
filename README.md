@@ -12,6 +12,7 @@ Equipo:
     https://myveggiebox.herokuapp.com/
   Slides:
     https://slides.com/andreahackerpage/my-veggie-box
+    
 Equipo:
   Integrantes:
     Marilyn Negrete
