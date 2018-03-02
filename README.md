@@ -2,6 +2,26 @@
 A project list
 Equipos
 
+Equipo 3:
+
+  Integrantes:
+
+Oriana Bermudez
+
+Debora Ermel
+
+Github:
+
+https://github.com/project-IronHack/ironFullStackProj
+
+Demo:
+
+https://pawinn.herokuapp.com
+
+Slides:
+
+https://slides.com/orianabermudez/pawinn/live#/
+
 Equipo 4:
 
   Integrantes:
