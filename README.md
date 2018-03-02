@@ -2,7 +2,7 @@
 A project list
 Equipos
 
-Equipo:
+Equipo 4:
 
   Integrantes:
 
@@ -22,7 +22,7 @@ Slides:
 
 https://slides.com/andreahackerpage/my-veggie-box
     
-Equipo:
+Equipo 5:
 
 Integrantes:
 
@@ -42,7 +42,7 @@ Slides:
 
 http://slides.com/marilynnegrete/padrinos-app
     
-Equipo:
+Equipo 6:
 
 Integrantes:
 
@@ -65,7 +65,27 @@ Slides:
 http://slides.com/diegoarroyo/handy-furny
 
 
-Equipo: 
+Equipo 7: 
+
+Integrantes:
+
+Juan Magos
+
+Raul Merino
+
+Github:
+
+https://github.com/PartyHooper/ironProject
+
+Demo:
+
+https://ironproject2.herokuapp.com/
+
+Slides:
+
+https://slides.com/raulmerino/deck/
+
+Equipo 8: 
 
 Integrantes:
 
@@ -85,25 +105,5 @@ Slides:
 
 http://slides.com/zila/proyecto-2
 
-
-Equipo: 
-
-Integrantes:
-
-Juan Magos
-
-Raul Merino
-
-Github:
-
-https://github.com/PartyHooper/ironProject
-
-Demo:
-
-https://ironproject2.herokuapp.com/
-
-Slides:
-
-https://slides.com/raulmerino/deck/
 
 
