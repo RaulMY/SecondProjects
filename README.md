@@ -1,6 +1,28 @@
 # SecondProjects
 A project list
 Equipos
+Equipo 1
+
+Dimitri Bonnier
+
+Andrea Hacker-Page
+
+Github:
+
+https://github.com/myveggiebox
+
+Demo:
+
+https://myveggiebox.herokuapp.com/
+
+Slides:
+
+https://slides.com/andreahackerpage/my-veggie-box
+
+Equipo 2:
+
+Gabriel Rivera
+Patrick Jorg
 
 Equipo 3:
 
@@ -25,22 +47,8 @@ https://slides.com/orianabermudez/pawinn/live#/
 Equipo 4:
 
   Integrantes:
-
-Dimitri Bonnier
-
-Andrea Hacker-Page
-
-Github:
-
-https://github.com/myveggiebox
-
-Demo:
-
-https://myveggiebox.herokuapp.com/
-
-Slides:
-
-https://slides.com/andreahackerpage/my-veggie-box
+Alec Plehn
+Frieda Bulnes
     
 Equipo 5:
 
