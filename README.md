@@ -4,6 +4,16 @@ Equipos
 
 Equipo:
   Integrantes:
+    Dimitri Bonnier
+    Andrea Hacker-Page
+  Github:
+    https://github.com/myveggiebox
+  Demo:
+    https://myveggiebox.herokuapp.com/
+  Slides:
+    https://slides.com/andreahackerpage/my-veggie-box
+Equipo:
+  Integrantes:
     Marilyn Negrete
     Lance Meier
   Github:
