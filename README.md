@@ -35,3 +35,14 @@ Equipo:
     https://handyfurny.herokuapp.com
   Slides:
     http://slides.com/diegoarroyo/handy-furny
+
+Equipo:
+  Integrantes:
+    Marilyn Negrete
+    Lance Meier
+  Github:
+    https://github.com/PadrinosProject
+  Demo:
+    https://calm-castle-77875.herokuapp.com/
+  Slides:
+    http://slides.com/marilynnegrete/padrinos-app
